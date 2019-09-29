@@ -48,9 +48,21 @@
 class Solution {
 public:
     int minDepth(TreeNode* root) {
-        if(root==NULL) return 0; 
+        //https://leetcode.com/problems/minimum-depth-of-binary-tree/discuss/36207/Recursive-cpp-solution
+
+        if(!root) return 0; 
+        int left_leave = minDepth(root->left); 
+        int right_leave = minDepth(root->right); 
+
+        // counting the current root
+        // if the left is not null, you need to check the right leave number 
+        
+        if(!root->left) return 1+right_leave; 
+        if(!root->right) return 1+left_leave; 
+
+        return 1+ min(left_leave, right_leave); 
         
     }
+
 };
 // @lc code=end
-
