@@ -13,10 +13,50 @@ Note:
 You must do this in-place without making a copy of the array.
 Minimize the total number of operations.
 
+===============================================================
+check each number slot, if it is equal to 0, move the next number to the current slot
+and make the next number to be 0
+
+The above method has a problem, it will be in an infinity loop
+
+
+===============================================================
+
+
+
 class Solution(object):
     def moveZeroes(self, nums):
         """
         :type nums: List[int]
         :rtype: None Do not return anything, modify nums in-place instead.
         """
-        
+        for i in range(len(nums)-1):
+            if nums[i] == 0:
+                nums[i] = nums[i+1]
+                nums[i+1] = 0 
+
+
+
+
+###############
+https://blog.csdn.net/coder_orz/article/details/51384498
+
+class Solution(object):
+    def moveZeroes(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: None Do not return anything, modify nums in-place instead.
+        """
+
+Answer: 
+        slow = fast = 0
+        while fast < len(nums):
+            if nums[fast] != 0:
+                if slow != fast:
+                    nums[slow] = nums[fast]
+                    nums[fast] = 0
+                slow += 1
+            fast += 1
+————————————————
+版权声明：本文为CSDN博主「coder_orz」的原创文章，遵循 CC 4.0 BY-SA 版权协议，转载请附上原文出处链接及本声明。
+原文链接：https://blog.csdn.net/coder_orz/java/article/details/51384498
