@@ -1,6 +1,6 @@
 # Leetcode Problem Sheet
 
-## Java --> my primary language
+## Java 
 | #    | Title | Difficulty  | Date | Kind | Notes | 
 |:---: | :---: | :---: | :---: | :---: | :---: |
 | 283  | Move Zeroes | Easy | 3/28/2020 | - | - |
@@ -25,32 +25,41 @@
 | 621  |  | Medium | - | - | - |
 | 105  |  | Medium | - | - | - |
 
-## Maybe Pile (Those problems I should practice when I have time)
-| #  | Title | Difficulty  | Tag | Date | Kind | Notes | 
-| --- | --- | --- | --- | --- | --- | --- |
-| 167 | Two Sum II - Input array is sorted | Medium | Array, Two Pointers, Binary Search | - | - | - |
+## Maybe Pile 
+###### (Those problems I should practice when I have time)
+
+| #    | Title | Difficulty  | Date | Kind | Notes | 
+|:---: | :---: | :---: | :---: | :---: | :---: |
+| 167 | Two Sum II - Input array is sorted | Medium | - | - | - |
 
 
 
 
 ## Python 
-| #  | Title | Difficulty  | Tag | Date | Kind | Notes | 
-| --- | --- | --- | --- | --- | --- | --- |
-| 283 | Move Zeroes | Easy | Array | 3/28/2020 | - | - |
-| 169 | Majority Element | Easy | Array | 3/28/2020 | - | - |
-| 448 | Find All Numbers Disappeared in an Array  | Easy | Array | 3/28/2020 | - | - |
-| 121 | Best Time to Buy and Sell Stock | Easy | Array | 3/28/2020 | - | - |
-| 53 | Maximum Subarray  | Easy | Array | 3/28/2020 | - | - |
-| 1 | Two Sum | Easy | Array | 3/28/2020 | - | - |
-| 581 | Shortest Unsorted Continuous Subarray | Easy | Array | 3/28/2020 | - | - |
+| #    | Title | Difficulty  | Date | Kind | Notes | 
+|:---: | :---: | :---: | :---: | :---: | :---: |
+| 283  | Move Zeroes | Easy | 3/28/2020 | - | - |
+| 169  | Majority Element | Easy | 3/28/2020 | - | - |
+| 448  | Find All Numbers Disappeared in an Array  | Easy | 3/28/2020 | - | - |
+| 121  | Best Time to Buy and Sell Stock | Easy | 3/28/2020 | - | - |
+| 53   | Maximum Subarray  | Easy | 3/28/2020 | - | - |
+| 1    | Two Sum | Easy | 3/28/2020 | - | - |
+| 581  | Shortest Unsorted Continuous Subarray | Easy | 3/28/2020 | - | - |
 
+
+
+<br/>
+
+
+# 
 
 #### Markdown Reference Link
-----------------------------
+
 * [Extended Syntax](https://www.markdownguide.org/extended-syntax/)
 * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 * [Writing on GitHub](https://help.github.com/en/github/writing-on-github)
 * [Markdown Here Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)
 * [Other Markdown Tools](https://github.com/adam-p/markdown-here/wiki/Other-Markdown-Tools)
+* [Markdown (More easy to read)](https://paperhive.org/help/markdown)
 
 
