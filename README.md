@@ -15,7 +15,7 @@
 | 48   | Rotate Image | Medium | 3/29/2020 | - | - |
 | 39   | Combination Sum | Medium | 3/29/2020 | Recursion | - |
 | 287  | Find the Duplicate Number | Medium | 3/29/2020 | - | - |
-| 90   | - | Medium | Array, Backtracking | 3/30/2020 | - | - |
+| 90   | - | Medium | 3/30/2020 | - | - |
 | 15   | 3Sum | Medium | 3/30/2020 | - | - |
 | 18   | 4Sum | Medium | 3/30/2020 | - | - |
 | 560  | Subarray Sum Equals K  | Medium | 3/30/2020 | - | - |
