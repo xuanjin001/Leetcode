@@ -6,8 +6,13 @@
 ## Recursion and Backtracking
 [Recursion and Backtracking handouts](https://www.hackerearth.com/practice/basic-programming/recursion/recursion-and-backtracking/tutorial/)
 
-##### Summary
+<br>
+<br>
+
+### Summary 
+
 Base case: termination condition. 
+
 Important: 
 * The problem can broken down into smaller problems of same type.
 * Problem has some base case(s).
