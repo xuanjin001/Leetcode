@@ -2,7 +2,13 @@
 
 
 ## Java (Round 1) 
-| #    | Leetcode #  | Title | Difficulty  | Date | Kind | Notes | 
+#### Total Count
+
+| Easy | Medium | Hard |
+|:---: |:---:   |:---: |
+| 11 | 14 | 0 |
+
+| Count| Leetcode #  | Title | Difficulty  | Date | Kind | Notes | 
 |:---: |:---: | :---: | :---: | :---: | :---: | :---: |
 |  1   | 283  | [Move Zeroes](Java/283-MoveZeroes.md) | Easy | 3/28/2020 | - | - |
 |  2   | 169  | [Majority Element](Java/169-MajorityElement.md) | Easy | 3/28/2020 | - | - |
@@ -19,14 +25,25 @@
 |  13  | 75   | [Sort Colors](Java/75-SortColors.md) | Medium | 3/31/2020 | Recursion | - |
 |  14  | 34   | [Find First and Last Position of Element in Sorted Array](Java/34-FindFirstAndLastPositionOfElementInSortedArray.md)  | Medium | 3/31/2020 | - | - |
 |  15  | 560  | [Subarray Sum Equals K](Java/560-SubarraySumEqualsK.md) | Medium | 3/31/2020 | Hashmap | - |
-|  | :---: | :---: | :---: | :---: | :---: |
-|  #   | 739  |  | Medium | 4/01/2020 | - | - |
-|  #   | 136  |  | Easy | 4/01/2020 | - | - |
-|  #   | 347  |  | Medium | 4/01/2020 | - | - |
-|  #   | 3    |  | Medium | 4/01/2020 | - | - |
-|  #   | 141  |  | Easy | 4/01/2020 | - | - |
-|  #   | 142  |  | Medium | 4/01/2020 | - | - |
-|      | :---: | :---: | :---: | :---: | :---: |
+|  16  | 739  | [Daily Temperatures](Java/739-DailyTemperatures.md) | Medium | 4/01/2020 | - | - |
+|  17  | 136  | [Single Number](Java/136-SingleNumber.md) | Easy | 4/01/2020 | - | - |
+|  18  | 347  | [Top K Frequent Elements](Java/347-TopKFrequentElements.md) | Medium | 4/01/2020 | - | - |
+|  19  | 3    | [Longest Substring Without Repeating Characters](Java/3-LongestSubstringWithoutRepeatingCharacters.md) | Medium | 4/01/2020 | - | - |
+|  20  | 141  | [Linked List Cycle](Java/141-LinkedListCycle.md) | Easy | 4/01/2020 | - | - |
+|  21  | 142  | [Linked List Cycle II](Java/142-LinkedListCycleII.md) | Medium | 4/01/2020 | - | - |
+|  22  | 202  | [Happy Number](Java/202-HappyNumber.md) | Easy | 4/02/2020 | - | Cannot really get my head around this one. |
+|  23  | 2    | [Add Two Numbers](Java/2-AddTwoNumbers.md) | Medium | 4/02/2020 | - | - |
+|  24  | 279  | [Perfect Squares](Java/279-PerfectSquares.md) | Medium | 4/02/2020 | - | - |
+|  25  | 21   | [Merge Two Sorted Lists](Java/) | Easy | 4/02/2020 | - | - |
+|  *   | :--: | :---: | :---: | :---: | :---: | * |
+|  26  | 148  |  | Medium | - | - | - |
+|  27  | 206  |  | Easy | - | - | - |
+|  28  | 160  |  | Easy | - | - | - |
+|  29  | 15   | 3Sum | Medium | - | - | - |
+|  30  | 19   |  | Medium | - | - | - |
+|  31  | 11  |  | * | - | - | - |
+|  *   | :---: | :---: | :---: | :---: | :---: |
+|  *   | :---: | :---: | :---: | :---: | :---: |
 |  #   | 64   |  | Medium | - | - | - |
 |  #   | 11   |  | Medium | - | - | - |
 |  #   | 62   |  | Medium | - | - | - |
@@ -37,9 +54,8 @@
 |  #   | 33   |  | Medium | - | - | - |
 |  #   | 55   |  | Medium | - | - | - |
 |  #   | 152  |  | Medium | - | - | - |
-|  #   | 15   | 3Sum | Medium | - | - | - |
 |      | :---: | :---: | :---: | :---: | :---: |
-|      |   |  | Medium | - | - | - |
+|  #   |   |  | * | - | - | - |
 
 ## Hard Array
 | #    | Title | Difficulty  | Date | Kind | Notes | 

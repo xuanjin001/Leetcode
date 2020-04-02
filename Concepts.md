@@ -86,4 +86,6 @@ void merge_sort (int A[ ] , int start , int end )
 ```
 Merge Sort by using Java: https://www.baeldung.com/java-merge-sort
 
+#### Lagrange's four-square theorem: 4^n(8*k+7)
+
 
