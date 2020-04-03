@@ -9,7 +9,7 @@
 <br>
 <br>
 
-### Summary 
+Summary 
 
 Base case: termination condition. 
 
@@ -86,6 +86,45 @@ void merge_sort (int A[ ] , int start , int end )
 ```
 Merge Sort by using Java: https://www.baeldung.com/java-merge-sort
 
-#### Lagrange's four-square theorem: 4^n(8*k+7)
+# Lagrange's four-square theorem
+4^n(8*k+7)
+
+https://en.wikipedia.org/wiki/Lagrange%27s_four-square_theorem
+
+https://mathworld.wolfram.com/LagrangesFour-SquareTheorem.html
+
+
+# Linked List
+https://beginnersbook.com/2013/12/linkedlist-in-java-with-example/
+
+https://www.coursera.org/learn/algorithms-part1
+
+https://www.cs.wcupa.edu/rkline/cs3/linked-list.html
+
+https://www.java2novice.com/data-structures-in-java/linked-list/singly-linked-list/
+
+https://www.cs.cmu.edu/~adamchik/15-121/lectures/Linked%20Lists/linked%20lists.html
+
+https://www.javatpoint.com/java-singly-linked-list-example
+
+
+Practice: 
+
+http://users.csc.calpoly.edu/~jdalbey/103/Demo/LinkedListExercises/
+
+https://www.w3resource.com/java-exercises/collection/#linkedlist
+
+http://www.cas.mcmaster.ca/~se2s03/tutorials/T10_Exercises.pdf
+
+-> Self Test: 
+
+https://www.cs.cmu.edu/~adamchik/15-121/lectures/Linked%20Lists/questions.html
+
+-> Do this first: 
+
+https://www.hackerrank.com/domains/data-structures?filters%5Bsubdomains%5D%5B%5D=linked-lists
+
+
+
 
 
