@@ -51,6 +51,17 @@ class Solution {
 }
 ```
 
+### Understanding the code: 
+corner case: when the nums contains no element, return 0
+
+when the i hasn't reach to the full length, check the folloiwng logic: 
+    if the sum is negative, then that means it is not at its max (and adding the value to a negative won't make the sum to be at it's max)
+        make the sum equal to the current nums[i] 
+    else, cumulate the sum 
+
+    check which number is bigger, between sum and max 
+    
+
 ### Notes: 
 Sum, Max 
 
