@@ -30,7 +30,7 @@ class Solution {
             int length = nums.length; 
             for(int i=0, j=0; i<length; i++){
                 if(nums[i]!=0){
-                    if(i!=j){
+                    if(i!=j){ //check on i and j
                         nums[j]=nums[i]; 
                         nums[i]=0; 
                     }
@@ -42,6 +42,15 @@ class Solution {
 }
 ```
 
+### Understanding the code: 
+```
+As long as nums is not null
+    loop through the array 
+        if the current number is not 0 (having to pointers to compare)
+            if the two pointers are not the same
+                move the number to current slot 
+                making the current number to be 0 
+```
 
 ## Solution
 https://blog.csdn.net/u012975705/article/details/50493772

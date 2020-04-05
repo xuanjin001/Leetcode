@@ -52,6 +52,7 @@ class Solution {
 ```
 
 ### Understanding the code: 
+```
 corner case: when the nums contains no element, return 0
 
 when the i hasn't reach to the full length, check the folloiwng logic: 
@@ -60,7 +61,7 @@ when the i hasn't reach to the full length, check the folloiwng logic:
     else, cumulate the sum 
 
     check which number is bigger, between sum and max 
-    
+``` 
 
 ### Notes: 
 Sum, Max 
