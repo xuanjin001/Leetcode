@@ -34,16 +34,17 @@
 |  22  | 202  | [Happy Number](Java/202-HappyNumber.md) | Easy | 4/02/2020 | - | Cannot really get my head around this one. |
 |  23  | 2    | [Add Two Numbers](Java/2-AddTwoNumbers.md) | Medium | 4/02/2020 | - | - |
 |  24  | 279  | [Perfect Squares](Java/279-PerfectSquares.md) | Medium | 4/02/2020 | - | - |
-|  25  | 21   | [Merge Two Sorted Lists](Java/) | Easy | 4/02/2020 | - | - |
-|  26  | 148  |  | Medium | - | - | - |
-|  27  | 206  |  | Easy | - | - | - |
-|  28  | 15   | 3Sum | Medium | - | - | - |
+|  25  | 21   | [Merge Two Sorted Lists](Java/21-MergeTwoSortedLists.md) | Easy | 4/02/2020 | - | - |
 |  *   | :--: | :---: | :---: | :---: | :---: | * |
-|  29  | 160  |  | Easy | - | - | - |
-|  30  | 19   |  | Medium | - | - | - |
-|  31  | 11  |  | * | - | - | - |
-|  *   | :---: | :---: | :---: | :---: | :---: |
-|  *   | :---: | :---: | :---: | :---: | :---: |
+|  26  | 148  | [Sort List](Java/148-SortList.md) | Medium | 4/05/2020 | - | - |
+|  27  | 206  | [Reverse Linked List](Java/206-ReverseLinkedList.md) | Easy | 4/05/2020 | - | - |
+|  28  | 15   | [3Sum](Java/) | Medium | - | - | - |
+|  29  | 160  | Construct Binary Tree from Inorder and Postorder Traversal | Easy | - | - | - |
+|  30  | 19   | [Remove Nth Node From End of List](Java/19-RemoveNthNodeFromEndofList.md) | Medium | 4/05/2020 | - | - |
+|  31  | 122  | [Best Time to Buy and Sell Stock II](Java/122-BestTimetoBuy&SellStockII.md) | Easy | 4/05/2020 | - | - |
+|  32  | 
+|  *   | :--: | :---: | :---: | :---: | :---: | * |
+|  *   |11  | Container With Most Water | Medium | - | - | - |
 |  #   | 64   |  | Medium | - | - | - |
 |  #   | 11   |  | Medium | - | - | - |
 |  #   | 62   |  | Medium | - | - | - |
