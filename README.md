@@ -25,6 +25,7 @@
 |  13  | 75   | [Sort Colors](Java/75-SortColors.md) | Medium | 3/31/2020 | Recursion | - |
 |  14  | 34   | [Find First and Last Position of Element in Sorted Array](Java/34-FindFirstAndLastPositionOfElementInSortedArray.md)  | Medium | 3/31/2020 | - | - |
 |  15  | 560  | [Subarray Sum Equals K](Java/560-SubarraySumEqualsK.md) | Medium | 3/31/2020 | Hashmap | - |
+|  *   | review | below | items | :---: | :---: | * |
 |  16  | 739  | [Daily Temperatures](Java/739-DailyTemperatures.md) | Medium | 4/01/2020 | - | - |
 |  17  | 136  | [Single Number](Java/136-SingleNumber.md) | Easy | 4/01/2020 | - | - |
 |  18  | 347  | [Top K Frequent Elements](Java/347-TopKFrequentElements.md) | Medium | 4/01/2020 | - | - |
@@ -38,20 +39,21 @@
 |  *   | :--: | :---: | :---: | :---: | :---: | * |
 |  26  | 148  | [Sort List](Java/148-SortList.md) | Medium | 4/05/2020 | - | - |
 |  27  | 206  | [Reverse Linked List](Java/206-ReverseLinkedList.md) | Easy | 4/05/2020 | - | - |
-|  28  | 15   | [3Sum](Java/) | Medium | - | - | - |
-|  29  | 160  | Construct Binary Tree from Inorder and Postorder Traversal | Easy | - | - | - |
-|  30  | 19   | [Remove Nth Node From End of List](Java/19-RemoveNthNodeFromEndofList.md) | Medium | 4/05/2020 | - | - |
-|  31  | 122  | [Best Time to Buy and Sell Stock II](Java/122-BestTimetoBuy&SellStockII.md) | Easy | 4/05/2020 | - | - |
-|  32  | 
+|  28  | 19   | [Remove Nth Node From End of List](Java/19-RemoveNthNodeFromEndofList.md) | Medium | 4/05/2020 | - | - |
+|  29  | 122  | [Best Time to Buy and Sell Stock II](Java/122-BestTimetoBuy&SellStockII.md) | Easy | 4/05/2020 | - | - |
+|  30  | 15   | [3Sum](Java/15-3Sum.md) | Medium | 4/06/2020 | - | - |
+|  31  | 160  | [Construct Binary Tree from Inorder and Postorder Traversal](Java/160-IntersectionofTwoLinkedLists.md) | Easy | 4/06/2020 | - | - |
+|  32  | 49   | [Group Anagrams](Java/49-GroupAnagrams.md) | Medium | 4/06/2020 | - | - |
+|  33  | 56   |  | Medium | 4/06/2020 | - | - |
+|  34  | 79   |  | Medium | 4/06/2020 | - | - |
+|  35  | 20   |  | Easy | 4/06/2020 | - | - |
 |  *   | :--: | :---: | :---: | :---: | :---: | * |
-|  *   |11  | Container With Most Water | Medium | - | - | - |
+|  *   | 11   | Container With Most Water | Medium | - | - | - |
 |  #   | 64   |  | Medium | - | - | - |
 |  #   | 11   |  | Medium | - | - | - |
 |  #   | 62   |  | Medium | - | - | - |
 |  #   | 621  |  | Medium | - | - | - |
 |  #   | 105  |  | Medium | - | - | - |
-|  #   | 56   |  | Medium | - | - | - |
-|  #   | 79   |  | Medium | - | - | - |
 |  #   | 33   |  | Medium | - | - | - |
 |  #   | 55   |  | Medium | - | - | - |
 |  #   | 152  |  | Medium | - | - | - |
