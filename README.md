@@ -38,7 +38,6 @@
 |  23  | 2    | [Add Two Numbers](Java/2-AddTwoNumbers.md) | Medium | 4/02/2020 | - | - |
 |  24  | 279  | [Perfect Squares](Java/279-PerfectSquares.md) | Medium | 4/02/2020 | - | - |
 |  25  | 21   | [Merge Two Sorted Lists](Java/21-MergeTwoSortedLists.md) | Easy | 4/02/2020 | - | - |
-|  *   | Count | Stopped | Here | :---: | :---: | * |
 |  26  | 148  | [Sort List](Java/148-SortList.md) | Medium | 4/05/2020 | - | - |
 |  27  | 206  | [Reverse Linked List](Java/206-ReverseLinkedList.md) | Easy | 4/05/2020 | - | - |
 |  28  | 19   | [Remove Nth Node From End of List](Java/19-RemoveNthNodeFromEndofList.md) | Medium | 4/05/2020 | - | - |
@@ -49,8 +48,19 @@
 |  33  | 56   | [Merge Intervals](Java/56-MergeIntervals.md) | Medium | 4/06/2020 | - | - |
 |  34  | 79   | [Word Search](Java/79-WordSearch.md) | Medium | 4/06/2020 | - | - |
 |  35  | 20   | [Validate Parentheses](Java/20-ValidParentheses.md) | Easy | 4/06/2020 | - | - |
+|      | Count| Stopped | Here | :---: | :---: | * |
+|  #   | 155  | Min Stack  | Easy | - | - | - |
+|  #   | 494  | Target Sum | Medium | - | - | - |
+|  #   | 438  | Find All Anagrams in a String | Medium | - | - | - |
+|  #   | 5    | Longest Palindromic Substring | Medium | - | - | - |
+|  #   | 7    | Reverse Integer | Easy | - | - | - |
+|  #   | 98   | Validate Binary Search Tree | Medium | - | - | - |
+|  #   | 152  | Maximum Product Subarray | Medium | - | - | - |
+|  #   | 300  | Longest Increasing Subsequence | Medium | - | - | - |
+|  #   | 204  | Count Primes | Easy | - | - | - |
+|  #   | 394  | Decode String | Medium | - | - | - |
 |  *   | :--: | :---: | :---: | :---: | :---: | * |
-|  *   | 11   | Container With Most Water | Medium | - | - | - |
+|  #   | 88   | Merge Sorted Array | Easy | - | - | - |
 |  #   | 64   |  | Medium | - | - | - |
 |  #   | 11   |  | Medium | - | - | - |
 |  #   | 62   |  | Medium | - | - | - |
@@ -59,6 +69,7 @@
 |  #   | 33   |  | Medium | - | - | - |
 |  #   | 55   |  | Medium | - | - | - |
 |  #   | 152  |  | Medium | - | - | - |
+|  *   | 11   | Container With Most Water | Medium | - | - | - |
 |      | :---: | :---: | :---: | :---: | :---: |
 |  #   |   |  | * | - | - | - |
 
