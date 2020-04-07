@@ -4,9 +4,11 @@
 ## Java (Round 1) 
 #### Total Count
 
-| Easy | Medium | Hard |
-|:---: |:---:   |:---: |
-| 11 | 14 | 0 |
+|        | Easy | Medium | Hard | Total |
+| :----: |:---: |:---: |:---: |:---: |
+| Round 1 | 15 | 20 | 0 | 35 |
+| Target | 96 | 219 | 79 | 394 |
+|        | 24.4% | 55.6% | 20% | |
 
 | Count| Leetcode #  | Title | Difficulty  | Date | Kind | Notes | 
 |:---: |:---: | :---: | :---: | :---: | :---: | :---: |
@@ -36,7 +38,7 @@
 |  23  | 2    | [Add Two Numbers](Java/2-AddTwoNumbers.md) | Medium | 4/02/2020 | - | - |
 |  24  | 279  | [Perfect Squares](Java/279-PerfectSquares.md) | Medium | 4/02/2020 | - | - |
 |  25  | 21   | [Merge Two Sorted Lists](Java/21-MergeTwoSortedLists.md) | Easy | 4/02/2020 | - | - |
-|  *   | :--: | :---: | :---: | :---: | :---: | * |
+|  *   | Count | Stopped | Here | :---: | :---: | * |
 |  26  | 148  | [Sort List](Java/148-SortList.md) | Medium | 4/05/2020 | - | - |
 |  27  | 206  | [Reverse Linked List](Java/206-ReverseLinkedList.md) | Easy | 4/05/2020 | - | - |
 |  28  | 19   | [Remove Nth Node From End of List](Java/19-RemoveNthNodeFromEndofList.md) | Medium | 4/05/2020 | - | - |
@@ -44,9 +46,9 @@
 |  30  | 15   | [3Sum](Java/15-3Sum.md) | Medium | 4/06/2020 | - | - |
 |  31  | 160  | [Construct Binary Tree from Inorder and Postorder Traversal](Java/160-IntersectionofTwoLinkedLists.md) | Easy | 4/06/2020 | - | - |
 |  32  | 49   | [Group Anagrams](Java/49-GroupAnagrams.md) | Medium | 4/06/2020 | - | - |
-|  33  | 56   |  | Medium | 4/06/2020 | - | - |
-|  34  | 79   |  | Medium | 4/06/2020 | - | - |
-|  35  | 20   |  | Easy | 4/06/2020 | - | - |
+|  33  | 56   | [Merge Intervals](Java/56-MergeIntervals.md) | Medium | 4/06/2020 | - | - |
+|  34  | 79   | [Word Search](Java/79-WordSearch.md) | Medium | 4/06/2020 | - | - |
+|  35  | 20   | [Validate Parentheses](Java/20-ValidParentheses.md) | Easy | 4/06/2020 | - | - |
 |  *   | :--: | :---: | :---: | :---: | :---: | * |
 |  *   | 11   | Container With Most Water | Medium | - | - | - |
 |  #   | 64   |  | Medium | - | - | - |
