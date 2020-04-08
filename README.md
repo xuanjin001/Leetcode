@@ -4,8 +4,8 @@
 ## Java (Round 1) 
 #### Total Count
 
-|        | Easy | Medium | Hard | Total |
-| :----: |:---: |:---: |:---: |:---: |
+|        | Easy | Medium | Hard | Unknown | Total |
+| :----: |:---: |:---: |:---: |:---: |:---: |
 | Round 1 | 15 | 20 | 0 | 35 |
 | Target | 96 | 219 | 79 | 394 |
 |        | 24.4% | 55.6% | 20% | |
@@ -49,10 +49,12 @@
 |  34  | 79   | [Word Search](Java/79-WordSearch.md) | Medium | 4/06/2020 | - | - |
 |  35  | 20   | [Validate Parentheses](Java/20-ValidParentheses.md) | Easy | 4/06/2020 | - | - |
 |      | Count| Stopped | Here | :---: | :---: | * |
-|  #   | 155  | Min Stack  | Easy | - | - | - |
-|  #   | 494  | Target Sum | Medium | - | - | - |
-|  #   | 438  | Find All Anagrams in a String | Medium | - | - | - |
-|  #   | 5    | Longest Palindromic Substring | Medium | - | - | - |
+|  36  | #    | [Counting Elements](Java/CountingElements.md) | * | 4/07/2020 | - | - |
+|  37  | 155  | [Min Stack](Java/155-MinStack.md)  | Easy | - | - | - |
+|  38  | 494  | Target Sum | Medium | - | - | - |
+|  39  | 438  | Find All Anagrams in a String | Medium | - | - | - |
+|  40  | 5    | Longest Palindromic Substring | Medium | - | - | - |
+|  *   | :--: | :---: | :---: | :---: | :---: | * |
 |  #   | 7    | Reverse Integer | Easy | - | - | - |
 |  #   | 98   | Validate Binary Search Tree | Medium | - | - | - |
 |  #   | 152  | Maximum Product Subarray | Medium | - | - | - |
