@@ -1,6 +1,7 @@
 # 
 
 
+<br>
 
 ### My Thought: 
 
@@ -15,5 +16,8 @@
 ## Solution
 
 
+#### Logic: 
+
+#### Notes: 
 
 

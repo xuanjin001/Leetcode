@@ -4,11 +4,11 @@
 ## Java (Round 1) 
 #### Total Count
 
-|        | Easy | Medium | Hard | Unknown | Total |
-| :----: |:---: |:---: |:---: |:---: |:---: |
-| Round 1 | 15 | 20 | 0 | 35 |
-| Target | 96 | 219 | 79 | 394 |
-|        | 24.4% | 55.6% | 20% | |
+|        | Easy  | Medium | Hard | Unknown | Total |
+| :----: |:---:  |:---:   |:---: |:---:    |:---:  |
+| Round 1| 18    | 26     | 0    | 1       | 45    |
+| Target | 96    | 219    | 79   |         | 394   |
+|        | 24.4% | 55.6%  | 20%  |         |       |
 
 | Count| Leetcode #  | Title | Difficulty  | Date | Kind | Notes | 
 |:---: |:---: | :---: | :---: | :---: | :---: | :---: |
@@ -27,7 +27,7 @@
 |  13  | 75   | [Sort Colors](Java/75-SortColors.md) | Medium | 3/31/2020 | Recursion | - |
 |  14  | 34   | [Find First and Last Position of Element in Sorted Array](Java/34-FindFirstAndLastPositionOfElementInSortedArray.md)  | Medium | 3/31/2020 | - | - |
 |  15  | 560  | [Subarray Sum Equals K](Java/560-SubarraySumEqualsK.md) | Medium | 3/31/2020 | Hashmap | - |
-|  *   | review | below | items | :---: | :---: | * |
+|  *   |review| below | items | :---: | :---: | * |
 |  16  | 739  | [Daily Temperatures](Java/739-DailyTemperatures.md) | Medium | 4/01/2020 | - | - |
 |  17  | 136  | [Single Number](Java/136-SingleNumber.md) | Easy | 4/01/2020 | - | - |
 |  18  | 347  | [Top K Frequent Elements](Java/347-TopKFrequentElements.md) | Medium | 4/01/2020 | - | - |
@@ -48,13 +48,27 @@
 |  33  | 56   | [Merge Intervals](Java/56-MergeIntervals.md) | Medium | 4/06/2020 | - | - |
 |  34  | 79   | [Word Search](Java/79-WordSearch.md) | Medium | 4/06/2020 | - | - |
 |  35  | 20   | [Validate Parentheses](Java/20-ValidParentheses.md) | Easy | 4/06/2020 | - | - |
-|      | Count| Stopped | Here | :---: | :---: | * |
-|  36  | #    | [Counting Elements](Java/CountingElements.md) | * | 4/07/2020 | - | - |
-|  37  | 155  | [Min Stack](Java/155-MinStack.md)  | Easy | - | - | - |
-|  38  | 494  | Target Sum | Medium | - | - | - |
-|  39  | 438  | Find All Anagrams in a String | Medium | - | - | - |
-|  40  | 5    | Longest Palindromic Substring | Medium | - | - | - |
-|  *   | :--: | :---: | :---: | :---: | :---: | * |
+|  36  | #    | [Counting Elements](Java/CountingElements.md) | * | 4/07/2020 | HashSet | This one is not part of the listed LeetCode problem |
+|  37  | 155  | [Min Stack](Java/155-MinStack.md)  | Easy | 4/07/2020 | - | - |
+|  38  | 876  | [Middle of the Linked List](Java/876-MiddleoftheLinkedList.md) | Easy | 4/08/2020 | - | - |
+|  39  | 438  | [Find All Anagrams in a String](Java/438-FindAllAnagramsinString.md) | Medium | 4/08/2020 | Sliding Window | Close to #76 |
+|  40  | 5    | [Longest Palindromic Substring](Java/5-LongestPalindromicSubstring.md) | Medium | 4/08/2020 | Sliding Window | - |
+|  41  | 217  | [Contains Duplicate](Java/217-ContainsDuplicate.md) | Easy | 4/08/2020 | HashSet | - |
+|  42  | 152  | [Maximum Product Subarray](Java/152-MaximumProductSubarray.md) | Medium | 4/08/2020 | - | - |
+|  43  | 33   | [Search in Rotated Sorted Array](Java/33-SearchinRotatedSortedArray.md) | Medium | 4/08/2020 | Binary Search | - |
+|  44  | 153  | [Find Minimum in Rotated Sorted Array](Java/153-FindMinimuminRotatedSortedArray.md) | Medium | 4/08/2020 | Binary Search | - |
+|  45  | 424  | [Longest Repeating Character Replacement](Java/424-LongestRepeatingCharacterReplacement.md) | Medium | 4/08/2020 | Sliding Window | - |
+|      |Count | Stopped | Here | :---: | :---: | * |
+|      | :--: | :---: | :---: | :---: | :---: | * |
+|  *   | 200  |  | Medium | - | - | - |
+|  *   | 647  |  | Medium | - | - | - |
+|  *   | 417  |  | Medium | - | - | - |
+|  *   | 11   | Container With Most Water | Medium | - | - | - |
+|  *   | 76   |  | Hard | - | - | - |
+|  *   |   |  | * | - | - | - |
+|  *   |   |  | * | - | - | - |
+|      | :--: | :---: | :---: | :---: | :---: | * |
+|  *   | 494  | [Target Sum](Java/494-TargetSum.md) | Medium | 4/08/2020 | - | Not understanding this at all |
 |  #   | 7    | Reverse Integer | Easy | - | - | - |
 |  #   | 98   | Validate Binary Search Tree | Medium | - | - | - |
 |  #   | 152  | Maximum Product Subarray | Medium | - | - | - |
@@ -64,16 +78,12 @@
 |  *   | :--: | :---: | :---: | :---: | :---: | * |
 |  #   | 88   | Merge Sorted Array | Easy | - | - | - |
 |  #   | 64   |  | Medium | - | - | - |
-|  #   | 11   |  | Medium | - | - | - |
 |  #   | 62   |  | Medium | - | - | - |
 |  #   | 621  |  | Medium | - | - | - |
 |  #   | 105  |  | Medium | - | - | - |
-|  #   | 33   |  | Medium | - | - | - |
 |  #   | 55   |  | Medium | - | - | - |
-|  #   | 152  |  | Medium | - | - | - |
-|  *   | 11   | Container With Most Water | Medium | - | - | - |
 |      | :---: | :---: | :---: | :---: | :---: |
-|  #   |   |  | * | - | - | - |
+|  *   |   |  | * | - | - | - |
 
 ## Hard Array
 | #    | Title | Difficulty  | Date | Kind | Notes | 
