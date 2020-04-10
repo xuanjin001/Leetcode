@@ -27,7 +27,6 @@
 |  13  | 75   | [Sort Colors](Java/75-SortColors.md) | Medium | 3/31/2020 | Recursion | - |
 |  14  | 34   | [Find First and Last Position of Element in Sorted Array](Java/34-FindFirstAndLastPositionOfElementInSortedArray.md)  | Medium | 3/31/2020 | - | - |
 |  15  | 560  | [Subarray Sum Equals K](Java/560-SubarraySumEqualsK.md) | Medium | 3/31/2020 | Hashmap | - |
-|  *   |review| below | items | :---: | :---: | * |
 |  16  | 739  | [Daily Temperatures](Java/739-DailyTemperatures.md) | Medium | 4/01/2020 | - | - |
 |  17  | 136  | [Single Number](Java/136-SingleNumber.md) | Easy | 4/01/2020 | Hash | - |
 |  18  | 347  | [Top K Frequent Elements](Java/347-TopKFrequentElements.md) | Medium | 4/01/2020 | Heap | - |
@@ -38,7 +37,8 @@
 |  23  | 2    | [Add Two Numbers](Java/2-AddTwoNumbers.md) | Medium | 4/02/2020 | - | - |
 |  24  | 279  | [Perfect Squares](Java/279-PerfectSquares.md) | Medium | 4/02/2020 | - | - |
 |  25  | 21   | [Merge Two Sorted Lists](Java/21-MergeTwoSortedLists.md) | Easy | 4/02/2020 | - | - |
-|  *   |review| above | items | :---: | :---: | * |
+|  *   |review| stop  | here  | :---: | :---: | * |
+|  *   |review| below | items | :---: | :---: | * |
 |  26  | 148  | [Sort List](Java/148-SortList.md) | Medium | 4/05/2020 | - | - |
 |  27  | 206  | [Reverse Linked List](Java/206-ReverseLinkedList.md) | Easy | 4/05/2020 | - | - |
 |  28  | 19   | [Remove Nth Node From End of List](Java/19-RemoveNthNodeFromEndofList.md) | Medium | 4/05/2020 | - | - |
@@ -49,6 +49,7 @@
 |  33  | 56   | [Merge Intervals](Java/56-MergeIntervals.md) | Medium | 4/06/2020 | - | - |
 |  34  | 79   | [Word Search](Java/79-WordSearch.md) | Medium | 4/06/2020 | - | - |
 |  35  | 20   | [Validate Parentheses](Java/20-ValidParentheses.md) | Easy | 4/06/2020 | - | - |
+|  *   |review| above | items | :---: | :---: | * |
 |  36  | #    | [Counting Elements](Java/CountingElements.md) | * | 4/07/2020 | HashSet | This one is not part of the listed LeetCode problem |
 |  37  | 155  | [Min Stack](Java/155-MinStack.md)  | Easy | 4/07/2020 | - | - |
 |  38  | 876  | [Middle of the Linked List](Java/876-MiddleoftheLinkedList.md) | Easy | 4/08/2020 | - | - |
@@ -66,27 +67,33 @@
 |  49  | 17   | [Letter Combinations of a Phone Number](Java/17-LetterCombinationsofaPhoneNumber.md) | Medium | 4/09/2020 | Backtracking: faster; Queue, permutation method: slow | - |
 |  50  | 394  | Decode String | Medium | 4/09/2020 | String | - |
 |      | :--: | :---: | :---: | :---: | :---: | * |
-|  *   | 647  |  | Medium | - | - | - |
-|  *   | 417  |  | Medium | - | - | - |
+|  *   | 40   |  | Medium | - | - | - |
+|  *   | 698  |  | Medium | - | - | - |
+|  *   | 680  |  | Easy | - | - | - |
+|  *   | 46   |  | Medium | - | - | - |
+|  *   | 101  |  | Easy | - | - | - |
+|  *   | 98   | Validate Binary Search Tree | Medium | - | - | - |
 |      | :--: | :---: | :---: | :---: | :---: | * |
 |  *   | 300  | Longest Increasing Subsequence | Medium | - | - | - |
-|  *   | 494  | [Target Sum](Java/494-TargetSum.md) | Medium | 4/08/2020 | DP | Not understanding this at all |
 |  *   | 200  |  | Medium | - | - | - |
 |  *   | 11   | Container With Most Water | Medium | - | - | - |
 |  *   | 7    | Reverse Integer | Easy | - | - | - |
 |  *   | 76   |  | Hard | - | - | - |
 |      | :--: | :---: | :---: | :---: | :---: | * |
-|  #   | 98   | Validate Binary Search Tree | Medium | - | - | - |
 |  #   | 204  | Count Primes | Easy | - | - | - |
 |  *   | :--: | :---: | :---: | :---: | :---: | * |
 |  #   | 88   | Merge Sorted Array | Easy | - | - | - |
+|  *   | 647  |  | Medium | - | String, DP | - |
+|  *   | 417  |  | Medium | - | BFS, DFS | - |
 |  #   | 64   |  | Medium | - | - | - |
 |  #   | 62   |  | Medium | - | - | - |
 |  #   | 621  |  | Medium | - | - | - |
 |  #   | 105  |  | Medium | - | - | - |
 |  #   | 55   |  | Medium | - | - | - |
+|  *   | 494  | [Target Sum](Java/494-TargetSum.md) | Medium | 4/08/2020 | DP | Not understanding this at all |
 |      | :---: | :---: | :---: | :---: | :---: |
 |  *   |   |  | * | - | - | - |
+
 
 ## Area for improvement
 * Need more work on Stack (4/09/2020)
