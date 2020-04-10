@@ -29,15 +29,16 @@
 |  15  | 560  | [Subarray Sum Equals K](Java/560-SubarraySumEqualsK.md) | Medium | 3/31/2020 | Hashmap | - |
 |  *   |review| below | items | :---: | :---: | * |
 |  16  | 739  | [Daily Temperatures](Java/739-DailyTemperatures.md) | Medium | 4/01/2020 | - | - |
-|  17  | 136  | [Single Number](Java/136-SingleNumber.md) | Easy | 4/01/2020 | - | - |
-|  18  | 347  | [Top K Frequent Elements](Java/347-TopKFrequentElements.md) | Medium | 4/01/2020 | - | - |
-|  19  | 3    | [Longest Substring Without Repeating Characters](Java/3-LongestSubstringWithoutRepeatingCharacters.md) | Medium | 4/01/2020 | - | - |
+|  17  | 136  | [Single Number](Java/136-SingleNumber.md) | Easy | 4/01/2020 | Hash | - |
+|  18  | 347  | [Top K Frequent Elements](Java/347-TopKFrequentElements.md) | Medium | 4/01/2020 | Heap | - |
+|  19  | 3    | [Longest Substring Without Repeating Characters](Java/3-LongestSubstringWithoutRepeatingCharacters.md) | Medium | 4/01/2020 | two pointers | - |
 |  20  | 141  | [Linked List Cycle](Java/141-LinkedListCycle.md) | Easy | 4/01/2020 | - | - |
 |  21  | 142  | [Linked List Cycle II](Java/142-LinkedListCycleII.md) | Medium | 4/01/2020 | - | - |
 |  22  | 202  | [Happy Number](Java/202-HappyNumber.md) | Easy | 4/02/2020 | - | Cannot really get my head around this one. |
 |  23  | 2    | [Add Two Numbers](Java/2-AddTwoNumbers.md) | Medium | 4/02/2020 | - | - |
 |  24  | 279  | [Perfect Squares](Java/279-PerfectSquares.md) | Medium | 4/02/2020 | - | - |
 |  25  | 21   | [Merge Two Sorted Lists](Java/21-MergeTwoSortedLists.md) | Easy | 4/02/2020 | - | - |
+|  *   |review| above | items | :---: | :---: | * |
 |  26  | 148  | [Sort List](Java/148-SortList.md) | Medium | 4/05/2020 | - | - |
 |  27  | 206  | [Reverse Linked List](Java/206-ReverseLinkedList.md) | Easy | 4/05/2020 | - | - |
 |  28  | 19   | [Remove Nth Node From End of List](Java/19-RemoveNthNodeFromEndofList.md) | Medium | 4/05/2020 | - | - |
@@ -59,22 +60,24 @@
 |  44  | 153  | [Find Minimum in Rotated Sorted Array](Java/153-FindMinimuminRotatedSortedArray.md) | Medium | 4/08/2020 | Binary Search | - |
 |  45  | 424  | [Longest Repeating Character Replacement](Java/424-LongestRepeatingCharacterReplacement.md) | Medium | 4/08/2020 | Sliding Window | - |
 |      |Count | Stopped | Here | :---: | :---: | * |
+|  46  | 844  | [Backspace String Compare](Java/844-BackspaceStringCompare.md) | Easy | 4/09/2020 | - | - |
+|  47  | 22   | [Generate Parentheses](Java/22-GenerateParentheses.md) | Medium | 4/09/2020 | Backtracking | This is the first backtracking problem, contains notes on what's backtracking and how to set up the problems |
+|  48  | 784  | [Letter Case Permutation](Java/784-LetterCasePermutation.md) | Easy | 4/09/2020 | Backtracking | - |
+|  49  | 17   | [Letter Combinations of a Phone Number](Java/17-LetterCombinationsofaPhoneNumber.md) | Medium | 4/09/2020 | Backtracking: faster; Queue, permutation method: slow | - |
+|  50  | 394  | Decode String | Medium | 4/09/2020 | String | - |
 |      | :--: | :---: | :---: | :---: | :---: | * |
-|  *   | 200  |  | Medium | - | - | - |
 |  *   | 647  |  | Medium | - | - | - |
 |  *   | 417  |  | Medium | - | - | - |
-|  *   | 11   | Container With Most Water | Medium | - | - | - |
-|  *   | 76   |  | Hard | - | - | - |
-|  *   |   |  | * | - | - | - |
-|  *   |   |  | * | - | - | - |
 |      | :--: | :---: | :---: | :---: | :---: | * |
-|  *   | 494  | [Target Sum](Java/494-TargetSum.md) | Medium | 4/08/2020 | - | Not understanding this at all |
-|  #   | 7    | Reverse Integer | Easy | - | - | - |
+|  *   | 300  | Longest Increasing Subsequence | Medium | - | - | - |
+|  *   | 494  | [Target Sum](Java/494-TargetSum.md) | Medium | 4/08/2020 | DP | Not understanding this at all |
+|  *   | 200  |  | Medium | - | - | - |
+|  *   | 11   | Container With Most Water | Medium | - | - | - |
+|  *   | 7    | Reverse Integer | Easy | - | - | - |
+|  *   | 76   |  | Hard | - | - | - |
+|      | :--: | :---: | :---: | :---: | :---: | * |
 |  #   | 98   | Validate Binary Search Tree | Medium | - | - | - |
-|  #   | 152  | Maximum Product Subarray | Medium | - | - | - |
-|  #   | 300  | Longest Increasing Subsequence | Medium | - | - | - |
 |  #   | 204  | Count Primes | Easy | - | - | - |
-|  #   | 394  | Decode String | Medium | - | - | - |
 |  *   | :--: | :---: | :---: | :---: | :---: | * |
 |  #   | 88   | Merge Sorted Array | Easy | - | - | - |
 |  #   | 64   |  | Medium | - | - | - |
@@ -84,6 +87,16 @@
 |  #   | 55   |  | Medium | - | - | - |
 |      | :---: | :---: | :---: | :---: | :---: |
 |  *   |   |  | * | - | - | - |
+
+## Area for improvement
+* Need more work on Stack (4/09/2020)
+* Did couple backtracking problems, need more practice (4/09/2020)
+* Need to go over heap sort (4/09/2020) 
+* Need #39, #40 for recursion (4/09/2020) 
+* Review on merge sort (4/09/2020) 
+
+
+
 
 ## Hard Array
 | #    | Title | Difficulty  | Date | Kind | Notes | 

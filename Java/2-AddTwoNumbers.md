@@ -22,6 +22,8 @@ transfer to a linked list
 
 
 ### Code: --> my thing didn't work at all. 
+http://www.goodtecher.com/leetcode-2-add-two-numbers/
+
 ```java
 /**
  * Definition for singly-linked list.
@@ -32,7 +34,6 @@ transfer to a linked list
  * }
  */
 
-http://www.goodtecher.com/leetcode-2-add-two-numbers/
 class Solution {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         ListNode dummy = new ListNode(0);
@@ -80,6 +81,7 @@ class Solution {
 ```  
 
 https://zxi.mytechroad.com/blog/list/leetcode-2-add-two-numbers/
+
 ```java
 class Solution {
   public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
@@ -112,4 +114,10 @@ http://www.goodtecher.com/leetcode-2-add-two-numbers/
 
 https://zxi.mytechroad.com/blog/list/leetcode-2-add-two-numbers/
 
+#### Logic: 
+Reverse each linked list 
+
+Add each node together, and when there is a need to add the extra into the previous one, then do it 
+
+#### Notes: 
 

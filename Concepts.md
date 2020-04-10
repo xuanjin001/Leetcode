@@ -125,6 +125,19 @@ https://www.cs.cmu.edu/~adamchik/15-121/lectures/Linked%20Lists/questions.html
 https://www.hackerrank.com/domains/data-structures?filters%5Bsubdomains%5D%5B%5D=linked-lists
 
 
+# Backtracking 
+https://www.hackerearth.com/practice/basic-programming/recursion/recursion-and-backtracking/tutorial/
 
 
+# Heap
+Material: 
+* [Max Heap Tutorial](https://www.youtube.com/watch?v=ixdWTKWSz7s)
+* [Max Heap Tutorial](https://www.youtube.com/watch?v=oAYtNV6vy-k)
+* [MIT Open Course on Heap Sort](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-4-heaps-and-heap-sort/)
+
+
+#### Notes: 
+* Max Heap: the parent is always bigger than or equal to the child nodes 
+* Min Heap: the opposite 
+* If there are N nodes, then start from floor(N/2) index --> floor: ignore anything after the decimal 
 

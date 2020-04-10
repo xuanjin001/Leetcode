@@ -93,3 +93,14 @@ class Solution {
 ## Solution
 http://www.goodtecher.com/leetcode-21-merge-two-sorted-lists/
 
+
+#### Logic: 
+This could also be solved with merge sort. 
+
+The above solution logic: 
+```
+create another empty linked list 
+compare node by node
+```
+
+#### Notes: 

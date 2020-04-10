@@ -22,7 +22,7 @@ Explanation:
 ### My Thought: 
 
 
-### Code: 
+### Code: not working 
 ```java
 class Solution {
     public boolean isHappy(int n) {
@@ -103,6 +103,8 @@ class Solution {
 ```   
 
 https://blog.csdn.net/xudli/article/details/45267247
+
+
 ```java
 public class Solution {
     public boolean isHappy(int n) {
@@ -142,10 +144,11 @@ https://techlarry.github.io/Leetcode/202.%20Happy%20Number/
 ```java
 public boolean isHappy(int n) {
     HashSet set = new HashSet();
-    while (n != 1) {
-        if (!set.add(n)) return false;
+    while (n != 1) { 
+        if(!set.add(n)) return false; // if n already exist in the set, it return false 
         int nt = n, digit;
         n = 0;
+        //seperate n into digits 
         while (nt != 0) {
             digit = nt % 10;
             n += digit*digit;
@@ -155,6 +158,14 @@ public boolean isHappy(int n) {
     return true;
 }
 ```
+
+I would usually consider the opposite test: 
+```java
+if (!set.add(entry)) { // entry already present, possibly a case you want to handle
+
+}
+```
+
 
 #### Note: hashset
 https://www.callicoder.com/java-hashset/

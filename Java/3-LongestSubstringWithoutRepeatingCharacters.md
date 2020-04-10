@@ -117,5 +117,16 @@ public class Solution {
 }
 ```
 
+#### Logic: 
+Kinda like sliding windows
+```
+loop through
+If the chars are not the same as the ones before
+    if it is a same char as last one
+        move onto the next one 
+    else 
+        then start count
 
+```
 
+#### Notes: 

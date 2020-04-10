@@ -50,6 +50,7 @@ public class Solution {
     public int numSquares(int n) {
         while(n%4 == 0)  
             n /= 4;
+
         if(n%8 == 7) 
             return 4;
         
@@ -64,6 +65,13 @@ public class Solution {
     }
 }
 ```
+
+#### Logic: 
+Lagrange's four-square theorem: 4^n(8*k+7)
+
+Use that formula to do this problem, it is reversed 
+
+#### Notes: 
 
 
 

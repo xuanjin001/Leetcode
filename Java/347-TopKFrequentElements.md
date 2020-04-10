@@ -75,6 +75,11 @@ class Solution {
 
 
 ## Solution
+
+https://www.youtube.com/watch?v=t0Cq6tVNRBA
+
+
+
 ```java
 class Solution {
   public List<Integer> topKFrequent(int[] nums, int k) {

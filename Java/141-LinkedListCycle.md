@@ -95,6 +95,18 @@ public boolean hasCycle(ListNode head) {
 }
 ```
 
+#### Logic: 
+```
+have two pointers, slow and fast
+slow and fast pointer would be pointing at the same node in the beginning 
+fast pointer will move two nodes ahead
+When the while loop is going on continuously, eventually they will meet, then it is a cycle
+otherwise, there is no cycle
+
+```
+#### Notes: 
+
+
 
 
 

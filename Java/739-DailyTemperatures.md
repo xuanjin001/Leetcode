@@ -12,7 +12,7 @@ Note: The length of `temperatures` will be in the range `[1, 30000]`. Each tempe
 have a loop going through the array, and get each element and see if the 
 This is a window sliding type of problem 
 
-### Code: My own solution!!! This worked!!! 
+### Code: My own solution!!! This worked!!! --> need better solution, this one runs too slow 
 ```java
 class Solution {
     public int[] dailyTemperatures(int[] T) {

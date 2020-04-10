@@ -23,7 +23,7 @@ Output: 4
 ### My Thought: 
 
 
-### Code: WORKED!! 
+### Code: WORKED!! --> could also have solved with HashSet, maybe faster 
 ```java
 class Solution {
     public int singleNumber(int[] nums) {

@@ -35,6 +35,9 @@ sort the array first
 
 Keep adding each integer until it is bigger than the sum, then start to substract
 
+You need to find all combinations in this case
+Therefore, you can find the all the combinations that can give you the same answer
+
 ### Code: 
 ```java
 class Solution {
