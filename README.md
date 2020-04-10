@@ -65,7 +65,7 @@
 |  47  | 22   | [Generate Parentheses](Java/22-GenerateParentheses.md) | Medium | 4/09/2020 | Backtracking | This is the first backtracking problem, contains notes on what's backtracking and how to set up the problems |
 |  48  | 784  | [Letter Case Permutation](Java/784-LetterCasePermutation.md) | Easy | 4/09/2020 | Backtracking | - |
 |  49  | 17   | [Letter Combinations of a Phone Number](Java/17-LetterCombinationsofaPhoneNumber.md) | Medium | 4/09/2020 | Backtracking: faster; Queue, permutation method: slow | - |
-|  50  | 394  | Decode String | Medium | 4/09/2020 | String | - |
+|  50  | 394  | [Decode String](Java/394-DecodeString.md) | Medium | 4/09/2020 | String | - |
 |      | :--: | :---: | :---: | :---: | :---: | * |
 |  *   | 40   |  | Medium | - | - | - |
 |  *   | 698  |  | Medium | - | - | - |
