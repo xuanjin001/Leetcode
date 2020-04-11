@@ -68,6 +68,7 @@
 |  50  | 394  | [Decode String](Java/394-DecodeString.md) | Medium | 4/09/2020 | String | - |
 |      | :--: | :---: | :---: | :---: | :---: | * |
 |  51  | 698  | [Partition to K Equal Sum Subsets](Java/698-Partition2KEqualSumSubsets.md) | Medium | 4/10/2020 | Recursion, Backtracking | - |
+|  52  | 543  | [Diameter of Binary Tree](Java/543-DiameterofBinaryTree.md) | Easy | 4/11/2020 | - | - |
 |  *   | 40   | [Combination Sum II](Java/40-CombinationSum-II.md) | Medium | - | 
 |  *   | 494  | [Target Sum](Java/494-TargetSum.md) | Medium | 4/08/2020 | DP | Not understanding this at all |
 |  *   | 680  |  | Easy | - | - | - |
