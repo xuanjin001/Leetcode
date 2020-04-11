@@ -141,3 +141,43 @@ Material:
 * Min Heap: the opposite 
 * If there are N nodes, then start from floor(N/2) index --> floor: ignore anything after the decimal 
 
+
+# Kadane's Algorithm
+
+Explained way better: https://www.youtube.com/watch?v=86CQq3pKSUw
+
+
+https://hackernoon.com/kadanes-algorithm-explained-50316f4fd8a6
+
+First type of solution: 
+```java
+public int Kadanes(int[] array) {
+    int n = array.length; 
+    int[] dp = new int[n]; 
+
+    //base condition
+    dp[0] = array[0]; 
+
+    int answer = Integer.MIN_VALUE; 
+    for(int i=1; i<n; i++) {
+        dp[i] = Math.max(dp[i-1], 0) + array[i]; //everything before plus current one 
+        answer = Math.max(answer, dp[i]); //find the max for global
+    }
+    return answer; 
+}
+```
+
+This one makes more sense: 
+```java
+public int getMaxSubarraySum(int[] array) {
+    int currentMax = Integer.MIN_VALUE; 
+    int totalMax = Integer.MIN_VALUE;
+
+    for(int i=0; i<array.length; i++) {
+        currentMax = Math.max(currentMax, 0) + array[i]; 
+        totalMax = Math.max(totalMax, currentMax); 
+    }
+
+    return totalMax; 
+}
+```

@@ -16,7 +16,7 @@
 |  2   | 169  | [Majority Element](Java/169-MajorityElement.md) | Easy | 3/28/2020 | - | - |
 |  3   | 448  | [Find All Numbers Disappeared in an Array](Java/448-FindAllNumbersDisappearedInArray.md)  | Easy | 3/28/2020 | - | Not understanding it |
 |  4   | 121  | [Best Time to Buy and Sell Stock](Java/121-BestTimeToBuyAndSellStock.md) | Easy | 3/28/2020 | - | - |
-|  5   | 53   | [Maximum Subarray](Java/53-MaximumSubarray.md) | Easy | 3/28/2020 | - | - |
+|  5   | 53   | [Maximum Subarray](Java/53-MaximumSubarray.md) | Easy | 3/28/2020 | - | Kadane's Algorithm |
 |  6   | 1    | [Two Sum](Java/1-TwoSum.md) | Easy | 3/28/2020 | Hashmap | - |
 |  7   | 581  | [Shortest Unsorted Continuous Subarray](Java/581-ShortestUnsortedContinuousSubarray.md) | Easy | 3/28/2020 | - | - |
 |  8   | 238  | [Product of Array Except Self](238-ProductOfArrayExceptSelf.md) | Medium | 3/29/2020 | - | - |
@@ -67,9 +67,11 @@
 |  49  | 17   | [Letter Combinations of a Phone Number](Java/17-LetterCombinationsofaPhoneNumber.md) | Medium | 4/09/2020 | Backtracking: faster; Queue, permutation method: slow | - |
 |  50  | 394  | [Decode String](Java/394-DecodeString.md) | Medium | 4/09/2020 | String | - |
 |      | :--: | :---: | :---: | :---: | :---: | * |
-|  *   | 40   |  | Medium | - | - | - |
-|  *   | 698  |  | Medium | - | - | - |
+|  51  | 698  | [Partition to K Equal Sum Subsets](Java/698-Partition2KEqualSumSubsets.md) | Medium | 4/10/2020 | Recursion, Backtracking | - |
+|  *   | 40   | [Combination Sum II](Java/40-CombinationSum-II.md) | Medium | - | 
+|  *   | 494  | [Target Sum](Java/494-TargetSum.md) | Medium | 4/08/2020 | DP | Not understanding this at all |
 |  *   | 680  |  | Easy | - | - | - |
+|      | :--: | :---: | :---: | :---: | :---: | * |
 |  *   | 46   |  | Medium | - | - | - |
 |  *   | 101  |  | Easy | - | - | - |
 |  *   | 98   | Validate Binary Search Tree | Medium | - | - | - |
@@ -90,7 +92,6 @@
 |  #   | 621  |  | Medium | - | - | - |
 |  #   | 105  |  | Medium | - | - | - |
 |  #   | 55   |  | Medium | - | - | - |
-|  *   | 494  | [Target Sum](Java/494-TargetSum.md) | Medium | 4/08/2020 | DP | Not understanding this at all |
 |      | :---: | :---: | :---: | :---: | :---: |
 |  *   |   |  | * | - | - | - |
 
@@ -101,6 +102,9 @@
 * Need to go over heap sort (4/09/2020) 
 * Need #39, #40 for recursion (4/09/2020) 
 * Review on merge sort (4/09/2020) 
+
+## Sit aside contents: 
+https://www.youtube.com/watch?v=7fujbpJ0LB4
 
 
 

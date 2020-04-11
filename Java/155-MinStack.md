@@ -116,4 +116,88 @@ class MinStack {
 
 ``` 
 
+#### Logic: 
+```
+Set up regular stack and another stack to track the minimum value 
+
+minStack.push(x); 
+    put the x into the stack when x can be the minimum value 
+
+minStack.getMin();
+    get the minimum value 
+
+minStack.pop();
+    when the stack value is equal to the minimum val, pop it out 
+
+minStack.top();
+    get the top value in the stack 
+
+```
+
+#### Second Time: 
+```java
+class MinStack {
+
+    /*
+    Set up regular stack and another stack to track the minimum value 
+
+    minStack.push(x); 
+        put the x into the stack when x can be the minimum value or if the stack is empty 
+
+    minStack.getMin();
+        get the minimum value 
+
+    minStack.pop();
+        when the stack value is equal to the minimum val, pop it out 
+
+    minStack.top();
+        get the top value in the stack 
+    */
+    
+    /** initialize your data structure here. */
+    Stack<Integer> stack = new Stack<Integer>(); 
+    Stack<Integer> min_val = new Stack<Integer>();
+        
+    public MinStack() {
+        Stack<Integer> stack = new Stack<Integer>(); 
+        Stack<Integer> min_val = new Stack<Integer>();
+    }
+    
+    public void push(int x) {
+        if( min_val.isEmpty() || x<=min_val.peek() )
+            min_val.push(x); 
+        
+        stack.push(x); 
+    }
+    
+    public void pop() {
+        if(stack.peek().equals(min_val.peek())) 
+            min_val.pop(); 
+        
+        stack.pop(); 
+    }
+    
+    public int top() {
+        return stack.peek(); 
+    }
+    
+    public int getMin() {
+        return min_val.peek(); 
+    }
+}
+
+
+
+/**
+ * Your MinStack object will be instantiated and called as such:
+ * MinStack obj = new MinStack();
+ * obj.push(x);
+ * obj.pop();
+ * int param_3 = obj.top();
+ * int param_4 = obj.getMin();
+ */
+ ```
+
+#### Notes: 
+
 
