@@ -73,6 +73,8 @@
 |  54  | #    | [Perform String Shifts](Java/PerformStringShifts.md) | * | - | - | - |
 |  55  | 678  |  | * | - | - | - |
 |  56  | 200  | [Number of Island](Java/200-NumberOfIsland.md) | * | - | - | - |
+|  57  | 64   | [Minimum Path Sum](Java/64-MinimumPathSum.md) | Medium | - | - | - |
+|  *   |   |  | * | - | - | - |
 |  *   | 40   | [Combination Sum II](Java/40-CombinationSum-II.md) | Medium | - | 
 |  *   | 494  | [Target Sum](Java/494-TargetSum.md) | Medium | 4/08/2020 | DP | Not understanding this at all |
 |  *   | 680  |  | Easy | - | - | - |
@@ -92,7 +94,6 @@
 |  #   | 88   | Merge Sorted Array | Easy | - | - | - |
 |  *   | 647  |  | Medium | - | String, DP | - |
 |  *   | 417  |  | Medium | - | BFS, DFS | - |
-|  #   | 64   |  | Medium | - | - | - |
 |  #   | 62   |  | Medium | - | - | - |
 |  #   | 621  |  | Medium | - | - | - |
 |  #   | 105  |  | Medium | - | - | - |
