@@ -71,6 +71,8 @@
 |  52  | 543  | [Diameter of Binary Tree](Java/543-DiameterofBinaryTree.md) | Easy | 4/11/2020 | - | - |
 |  53  | 1046 | [Last Stone Weight](Java/1046-LastStoneWeight.md) | Easy | 4/12/2020 | - | - |
 |  54  | #    | [Perform String Shifts](Java/PerformStringShifts.md) | * | - | - | - |
+|  55  | 678  |  | * | - | - | - |
+|  56  | 200  | [Number of Island](Java/200-NumberOfIsland.md) | * | - | - | - |
 |  *   | 40   | [Combination Sum II](Java/40-CombinationSum-II.md) | Medium | - | 
 |  *   | 494  | [Target Sum](Java/494-TargetSum.md) | Medium | 4/08/2020 | DP | Not understanding this at all |
 |  *   | 680  |  | Easy | - | - | - |

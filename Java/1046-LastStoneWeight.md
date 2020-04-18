@@ -67,6 +67,8 @@ class Solution {
 }
 ```
 
+https://www.cnblogs.com/Dylan-Java-NYC/p/11785085.html
+
 #### Logic: 
 
 #### Notes: 
