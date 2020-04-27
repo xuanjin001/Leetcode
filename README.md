@@ -74,6 +74,8 @@
 |  55  | 678  |  | * | - | - | - |
 |  56  | 200  | [Number of Island](Java/200-NumberOfIsland.md) | * | - | - | - |
 |  57  | 64   | [Minimum Path Sum](Java/64-MinimumPathSum.md) | Medium | - | - | - |
+|  58  |   |  | [LeftmostColumnwithatLeastAOne.md](Java/LeftmostColumnwithatLeastAOne.md) | - | - | - |
+|  59  | 146  | LRU Cache | * | - | - | - |
 |  *   |   |  | * | - | - | - |
 |  *   | 40   | [Combination Sum II](Java/40-CombinationSum-II.md) | Medium | - | 
 |  *   | 494  | [Target Sum](Java/494-TargetSum.md) | Medium | 4/08/2020 | DP | Not understanding this at all |
