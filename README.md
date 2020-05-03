@@ -70,12 +70,23 @@
 |  51  | 698  | [Partition to K Equal Sum Subsets](Java/698-Partition2KEqualSumSubsets.md) | Medium | 4/10/2020 | Recursion, Backtracking | - |
 |  52  | 543  | [Diameter of Binary Tree](Java/543-DiameterofBinaryTree.md) | Easy | 4/11/2020 | - | - |
 |  53  | 1046 | [Last Stone Weight](Java/1046-LastStoneWeight.md) | Easy | 4/12/2020 | - | - |
+
+
+I started to prepare for another form of interview, so kinda slacked off on this, the following problem will need a redo... 
+| Count| Leetcode #  | Title | Difficulty  | Date | Kind | Notes | 
+|:---: |:---: | :---: | :---: | :---: | :---: | :---: |
 |  54  | #    | [Perform String Shifts](Java/PerformStringShifts.md) | * | - | - | - |
 |  55  | 678  |  | * | - | - | - |
-|  56  | 200  | [Number of Island](Java/200-NumberOfIsland.md) | * | - | - | - |
-|  57  | 64   | [Minimum Path Sum](Java/64-MinimumPathSum.md) | Medium | - | - | - |
-|  58  |   |  | [LeftmostColumnwithatLeastAOne.md](Java/LeftmostColumnwithatLeastAOne.md) | - | - | - |
-|  59  | 146  | LRU Cache | * | - | - | - |
+|  56  | 525  | [Contiguous Array](Java/525-ContiguousArray.md) | * | - | - | - |
+|  57  | 200  | [Number of Island](Java/200-NumberOfIsland.md) | * | - | - | - |
+|  58  | 64   | [Minimum Path Sum](Java/64-MinimumPathSum.md) | Medium | - | - | - |
+|  59  |   |  | [LeftmostColumnwithatLeastAOne.md](Java/LeftmostColumnwithatLeastAOne.md) | - | - | - |
+|  60  | 146  | [LRU Cache](Java/LRUCache.md) | * | - | - | - |
+|  61  | #    | [Binary Tree Maximum Path Sum](Java/BinaryTreeMaximumPathSum.md) | * | - | - | - |
+|  62  |   | [First Bad Version](Java/FirstBadVersion.md) | * | - | - | - |
+|  63  | 771  | [Jewels And Stones](Java/771-JewelsAndStones.md) | * | - | - | - |
+|  *   |   |  | * | - | - | - |
+
 |  *   |   |  | * | - | - | - |
 |  *   | 40   | [Combination Sum II](Java/40-CombinationSum-II.md) | Medium | - | 
 |  *   | 494  | [Target Sum](Java/494-TargetSum.md) | Medium | 4/08/2020 | DP | Not understanding this at all |
