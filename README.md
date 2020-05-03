@@ -85,7 +85,7 @@ I started to prepare for another form of interview, so kinda slacked off on this
 |  61  | #    | [Binary Tree Maximum Path Sum](Java/BinaryTreeMaximumPathSum.md) | * | - | - | - |
 |  62  |   | [First Bad Version](Java/FirstBadVersion.md) | * | - | - | - |
 |  63  | 771  | [Jewels And Stones](Java/771-JewelsAndStones.md) | * | - | - | - |
-|  *   |   |  | * | - | - | - |
+|  64  | 383  | [Ransom Note](Java/383-RansomNote.md) | * | - | - | - |
 
 |  *   |   |  | * | - | - | - |
 |  *   | 40   | [Combination Sum II](Java/40-CombinationSum-II.md) | Medium | - | 
