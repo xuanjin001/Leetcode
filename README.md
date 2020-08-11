@@ -9,6 +9,11 @@
 | Round 1| 18    | 26     | 0    | 1       | 45    |
 | Target | 96    | 219    | 79   |         | 394   |
 |        | 24.4% | 55.6%  | 20%  |         |       |
+| Round 2|
+
+<br>
+<br>
+
 
 | Count| Leetcode #  | Title | Difficulty  | Date | Kind | Notes | 
 |:---: |:---: | :---: | :---: | :---: | :---: | :---: |
@@ -86,7 +91,8 @@ I started to prepare for another form of interview, so kinda slacked off on this
 |  62  |   | [First Bad Version](Java/FirstBadVersion.md) | * | - | - | - |
 |  63  | 771  | [Jewels And Stones](Java/771-JewelsAndStones.md) | * | - | - | - |
 |  64  | 383  | [Ransom Note](Java/383-RansomNote.md) | * | - | - | - |
-
+|  *   |   |  | * | - | - | - |
+|  *   |   |  | * | - | - | - |
 |  *   |   |  | * | - | - | - |
 |  *   | 40   | [Combination Sum II](Java/40-CombinationSum-II.md) | Medium | - | 
 |  *   | 494  | [Target Sum](Java/494-TargetSum.md) | Medium | 4/08/2020 | DP | Not understanding this at all |
@@ -113,6 +119,16 @@ I started to prepare for another form of interview, so kinda slacked off on this
 |  #   | 55   |  | Medium | - | - | - |
 |      | :---: | :---: | :---: | :---: | :---: |
 |  *   |   |  | * | - | - | - |
+
+## Java (Round 2) 
+
+| Count| Leetcode #  | Title | Difficulty  | Date | Kind | Notes | 
+|:---: |:---: | :---: | :---: | :---: | :---: | :---: |
+|  1   | 283  | [Move Zeroes](Java/283-MoveZeroes.md) | Easy | 3/28/2020 | - | - |
+|  2   | 169  | [Majority Element](Java/169-MajorityElement.md) | Easy | 3/28/2020 | - | - |
+|  3   | 448  | [Find All Numbers Disappeared in an Array](Java/448-FindAllNumbersDisappearedInArray.md)  | Easy | 3/28/2020 | - | Not understanding it |
+|  4   | 121  | [Best Time to Buy and Sell Stock](Java/121-BestTimeToBuyAndSellStock.md) | Easy | 3/28/2020 | - | - |
+|  5   | 53   | [Maximum Subarray](Java/53-MaximumSubarray.md) | Easy | 3/28/2020 | - | Kadane's Algorithm |
 
 
 ## Area for improvement
