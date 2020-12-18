@@ -1,3 +1,12 @@
+## Practice
+
+### Practice problems: 
+* [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
+* [701. Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)
+* [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
+* 
+
+
 [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
 
 ```python

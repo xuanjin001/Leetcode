@@ -1,4 +1,3 @@
-:confounded:
 
 [inorderTraversal](https://www.geeksforgeeks.org/tree-traversals-inorder-preorder-and-postorder/)
 
@@ -22,6 +21,17 @@ postorderTraversal
 
 
 ## Practice
+
+### Practice problems: 
+* [104. Max Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+* [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
+* [107. Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)
+* [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
+* [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+* [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
+
+<br>
+
 
 [104. Max Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 
